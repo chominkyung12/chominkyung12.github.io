@@ -6,7 +6,7 @@ title:  "Introduce how to use Stream lit and deploy apps!"
 # what is Streamlit?
 
 
-<img src="https://github.com/chominkyung12/chominkyung12.github.io/assets/95404283/0b89a4c4-e195-4a61-8065-8bbe3c0a4083" width="300" height="300">
+<center><img src="https://github.com/chominkyung12/chominkyung12.github.io/assets/95404283/0b89a4c4-e195-4a61-8065-8bbe3c0a4083" width="300" height="300"></center>
 
 
 
