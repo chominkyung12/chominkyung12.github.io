@@ -5,6 +5,8 @@ title:  "Introduce how to use Stream lit and deploy apps!"
 
 # what is Streamlit?
 
+![image](https://github.com/chominkyung12/chominkyung12.github.io/assets/95404283/0b89a4c4-e195-4a61-8065-8bbe3c0a4083)
+
 Streamlit is a python library which is used for data visualization with ease.
 
 Streamlit has various functions to show a data information like histogram or data_table, slide_box etc.
