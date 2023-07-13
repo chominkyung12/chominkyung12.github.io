@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Introduce how to use Stream lit and deploy apps!"
 ---
 
